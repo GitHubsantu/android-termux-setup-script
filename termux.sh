@@ -1,4 +1,4 @@
-#! /bin/bash
+ #! /bin/bash
 if [[ "$*" =~ help ]]; then
 	echo all = INSTALLS EVERYTHING
 	echo bash = SETUP .bashrc
